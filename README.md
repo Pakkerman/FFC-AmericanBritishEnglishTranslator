@@ -1,3 +1,23 @@
-# American British Translator
+## FFC Quality Assurance Project - American British English Translator
 
-This is the boilerplate for the American British Translator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator
+### Info
+This is the completed project for FFC Quality Assurance course.
+
+Please check out 
+<a href="https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator" style="color: orange;">freeCodeCamp.com</a> for more details.
+
+### Usege:
+
+uncomment out NODE_ENV=test for running test
+
+run with: 
+```
+bun i
+```
+then
+```
+bun run start
+```
+
+
+
